@@ -5,7 +5,8 @@ public class BasicString {
 	
 	public final static String HELP = "1.因api访问次数限制原因，每个城市的aqi空气指数限制在每过10分钟才能更新一次\n"
 	                                + "2.若要重置软件，则删除软件目录下的data文件夹\n"
-			                        + "3.离线更新可能卡住(一阵子后恢复),所以尽量别离线更新";
+			                        + "3.离线更新可能卡住(一阵子后恢复),所以尽量别离线更新\n"
+	                                + "4.更新按钮不会同时更新天气与api,请分别更新";
 
 	public final static String AQINULL = "Sorry，您这个小时内的API请求次数用完了，休息一下吧！";
 	

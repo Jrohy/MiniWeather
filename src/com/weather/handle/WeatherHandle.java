@@ -114,7 +114,7 @@ public class WeatherHandle extends MainFrame implements ActionListener {
 						}
 				    }
 				    else {
-						JOptionPane.showMessageDialog(frame, BasicString.TENAQI, "ERROR", JOptionPane.WARNING_MESSAGE);
+						JOptionPane.showMessageDialog(frame, BasicString.TENAQI, "TIP", JOptionPane.INFORMATION_MESSAGE);
 				    }
 					setAQI();
 				}
