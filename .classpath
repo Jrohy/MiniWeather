@@ -2,6 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Program Files/Java/fastjson/fastjson-1.2.6.jar" sourcepath="C:/Program Files/Java/fastjson/fastjson-1.2.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/fastjson/fastjson-1.2.7.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
